@@ -4,13 +4,13 @@ const products = [
     id: 1,
     name: "Wireless Headphones",
     price: 2499,
-    image: "https://images.unsplash.com/photo-1518441902112-1b6b7bcb1d32?w=500"
+    image: "https://img.freepik.com/free-photo/headphones-audio-listen_74190-571.jpg?semt=ais_rp_progressive&w=740&q=80"
 },
 {
     id: 2,
     name: "Smart Watch",
     price: 3999,
-    image: "https://images.unsplash.com/photo-1516574187841-cb9cc2ca948b?w=500"
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA0lKlZWfbRIxNYvxkfnaFzYAhp1IodnwDpVALTZmsWw&s=10"
 },
 {
     id: 3,
